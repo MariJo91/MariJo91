@@ -1,5 +1,7 @@
 ## Hi 👋 I´m Maria Jose
 
+![presentacion](https://github.com/user-attachments/assets/55e2949d-a87b-4c75-87a9-079f0d8fa929)
+
 ## About Me:
 
 I am passionate about data science with 10 months of training at the prestigious Henry bootcamp. I have embarked on this career with enthusiasm and excitement, constantly seeking to expand my knowledge and skills. My particular interest lies in financial data and investments, as well as in administrative and marketing areas. I am committed to personal and professional growth, always looking for new adventures and challenges in the world of data. My goal is to apply my passion and dedication to contribute significantly to the field of data science, taking advantage of every opportunity to learn and grow.
