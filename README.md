@@ -1,4 +1,4 @@
-## Hi there 👋 My Name is Maria Jose
+## Hi 👋 I´m Maria Jose
 
 ## About Me:
 
