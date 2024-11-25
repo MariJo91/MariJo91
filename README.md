@@ -1,22 +1,22 @@
-## Hi 👋 I´m Maria Jose
+## Hola 👋 Soy Maria Jose
 
 ![Presentacion1](https://github.com/user-attachments/assets/27dc8a15-514e-4592-82fd-ffa920669b25)
 
 
-## About Me:
+## Acerca de Mi:
 
-I am passionate about data science with 10 months of training at the prestigious Henry bootcamp. I have embarked on this career with enthusiasm and excitement, constantly seeking to expand my knowledge and skills. My particular interest lies in financial data and investments, as well as in administrative and marketing areas. I am committed to personal and professional growth, always looking for new adventures and challenges in the world of data. My goal is to apply my passion and dedication to contribute significantly to the field of data science, taking advantage of every opportunity to learn and grow.
+"Transformando datos en información estratégica para impulsar el éxito financiero. Soy un Especialista en Análisis de Datos con formación intensiva en el bootcamp Henry, especializado en análisis de riesgos de inversión y optimización de portafolios. Combino mi experiencia en análisis de datos (Python, SQL) con  conocimientos en  finanzas, inversiones y gestión administrativa para brindar soluciones integrales.  Cuento con habilidades en visualización de datos (Power BI, Matplotlib), estadística y machine learning.  Apasionado por descubrir las historias ocultas en los datos y usarlas para tomar decisiones inteligentes. ¡Conéctate conmigo si te interesa conversar sobre análisis de datos, finanzas o  oportunidades de colaboración!"
 
-- 💡 Creativity
-- 🛠️ Programming (Python, R)
-- 📈 Data Analysis
-- 🎓 Training in Data Science.
-- 🔍 Research
-- 👩‍💼 Experience in Finance and Marketing.
-- 📊 Visualization of results.
-- 🌱 Constant learning and development.
-- 🚀 Looking for innovative opportunities.
-- 🔄 Iteration and continuous improvement.
+- 💡 Creatividad
+- 🛠️ Programación (Python, R)
+- 📈 Análisis de datos
+- 🎓 Formación en Data Science.
+- 🔍 Investigación
+- 👩‍💼 Experiencia en Finanzas y Marketing.
+- 📊 Visualización de resultados.
+- 🌱 Aprendizaje y desarrollo constante.
+- 🚀 Búsqueda de oportunidades innovadoras.
+- 🔄 Iteración y mejora continua.
 
 
 
