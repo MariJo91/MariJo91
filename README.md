@@ -5,7 +5,7 @@
 
 ## Acerca de Mi:
 
-"Transformando datos en información estratégica para impulsar el éxito financiero. Soy un Especialista en Análisis de Datos con formación intensiva en el bootcamp Henry, especializado en análisis de riesgos de inversión y optimización de portafolios. Combino mi experiencia en análisis de datos (Python, SQL) con  conocimientos en  finanzas, inversiones y gestión administrativa para brindar soluciones integrales.  Cuento con habilidades en visualización de datos (Power BI, Matplotlib), estadística y machine learning.  Apasionado por descubrir las historias ocultas en los datos y usarlas para tomar decisiones inteligentes. ¡Conéctate conmigo si te interesa conversar sobre análisis de datos, finanzas o  oportunidades de colaboración!"
+Con una sólida formación en el bootcamp Henry, he desarrollado habilidades avanzadas en análisis de datos. Mi formación en Python, SQL, finanzas y gestión administrativa, me proporcionan una base en constante evolucion para explorar nuevas tecnologías y metodologías de análisis. Estoy entusiasmada por aplicar mis habilidades en proyectos que me permitan aprender y crecer profesionalmente. 
 
 - 💡 Creatividad
 - 🛠️ Programación (Python)
