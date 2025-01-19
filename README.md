@@ -3,22 +3,40 @@
 ![Image](https://github.com/user-attachments/assets/d7c6a1d5-12c3-4e01-965a-524e8af22aaa)
 
 
-## Acerca de Mi:
+## About Me:
 
-Con una sólida formación en el bootcamp Henry, he desarrollado habilidades avanzadas en análisis de datos. Mi formación en Python, SQL, finanzas y gestión administrativa, me proporcionan una base en constante evolucion para explorar nuevas tecnologías y metodologías de análisis. Estoy entusiasmada por aplicar mis habilidades en proyectos que me permitan aprender y crecer profesionalmente. 
+I am a Data Scientist. I love Data Analyts.
 
-- 💡 Creatividad
-- 🛠️ Programación (Python)
-- 📈 Análisis de datos
-- 🎓 Formación en Data Science.
-- 🔍 Investigación
-- 👩‍💼 Experiencia en Finanzas y Marketing.
-- 📊 Visualización de resultados.
-- 🌱 Aprendizaje y desarrollo constante.
-- 🚀 Búsqueda de oportunidades innovadoras.
-- 🔄 Iteración y mejora continua.
+My background includes:
+*Programming: Experience in Python and SQL.
+*Data Analyts: Advanced techniques for data visualization and analyts.
+*Artificial Intelligence: Predictive models.
+*Finance and Administrative Management: Knowledge that complements my technical skills.
 
+Modern Methodologies: Familiarity with the latest technologies and methodologies in the field of data science.
 
+I am in a constant search for learning and professional growth. I enjoy working on challenging projects that allow me to apply my knowledge and contribute significantly to the team and the organization. I am ready to take my skills to the next level and collaborate in the creation of innovative data-driven solutions.
+
+**Skills:**
+* 💡 SQL (MySQL, PostgreSQL)
+* 🛠️ Programming (Python, R)
+* 📊 Visualization (Matplotlib, Seaborn, Tableau, Power BI)
+* 💡 Cloud: Google Cloud Microsoft Azure.
+* 🎓 Training in Data Science.
+* 🔍 Digital Marketing.
+* 👩‍💼 Finance and Administration.
+* 🌱 Constant learning and development.
+* 🚀 Search for innovative opportunities.
+* 🔄 Iteration and continuous improvement.
+
+**Interests:**
+*Big Data
+* Data Science
+* Business Analyst
+* BI Analyst
+* Digital Marketing
+* Growth Marketing
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maria-jose-atencio-96a8761aa) 
