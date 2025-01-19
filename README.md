@@ -1,4 +1,4 @@
-## Hola 👋 Soy Maria Jose
+## Hello 👋 I am Maria Jose
 
 ![Image](https://github.com/user-attachments/assets/d7c6a1d5-12c3-4e01-965a-524e8af22aaa)
 
