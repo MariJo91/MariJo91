@@ -1,6 +1,6 @@
 ## Hola 👋 Soy Maria Jose
 
-![gg](https://github.com/user-attachments/assets/14e02503-752f-442f-902b-9421d446ebda)
+![Image](https://github.com/user-attachments/assets/d7c6a1d5-12c3-4e01-965a-524e8af22aaa)
 
 
 ## Acerca de Mi:
